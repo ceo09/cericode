@@ -3,6 +3,12 @@
     margin: 0;
     box-sizing: border-box;
 }
+#map {
+    height: 100%;
+    width: 100%;
+    border-radius: 15px;
+}
+
 .intro {
     background-image: url(./pexels-jopwell-2422286.jpg);
     background-position: center;
